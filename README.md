@@ -1,2 +1,2 @@
 # COVID-19-Sentiment-Analysis
-COVID-19 sentiment analysis, Python practice 
+This exercise was undertaken in order to enhance my skills in Python. The final product of this analysis can be found at: https://www.allysonenglish.io/craftsmanship/
