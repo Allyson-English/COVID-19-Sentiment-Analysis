@@ -1,5 +1,5 @@
 import numpy as np
-# import textblob as textblob
+# import textblob as textblob (additional sentiment analysis library)
 import praw
 from datetime import datetime
 import json
